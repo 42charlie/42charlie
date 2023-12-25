@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://badge.mediaplus.ma/greenbinary/ahsadik" alt="ahsadik's 42 stats" />
+<img src="https://badge.mediaplus.ma/greenbinary/ahsadik" alt="ahsadik\'s 42 stats" />
 <!--
 **42charlie/42charlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
