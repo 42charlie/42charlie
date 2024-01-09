@@ -1,7 +1,7 @@
 ### 
 <img src="https://badge.mediaplus.ma/greenbinary/ahsadik" alt="ahsadik\'s 42 stats" />
-
-### - 🌱 I’m currently Engaged in learning and growing at 42 NETWORK.
+###
+- 🌱 I’m currently Engaged in learning and growing at 42 NETWORK.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
